@@ -1,0 +1,7 @@
+#Thu Oct 06 14:23:26 IST 2016
+base.0=E\:\\Pratik\\NewDesta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fcffbec7ef94dc6d944412a93a98d46bb880b6dd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Pratik\\NewDesta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9719c93a6b322782abdd5106a2a323437e6b882e\\classes.dex
+base.1=E\:\\Pratik\\NewDesta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9719c93a6b322782abdd5106a2a323437e6b882e
+file.0=E\:\\Pratik\\NewDesta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fcffbec7ef94dc6d944412a93a98d46bb880b6dd\\classes.dex

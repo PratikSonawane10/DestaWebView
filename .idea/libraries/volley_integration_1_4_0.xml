@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="volley-integration-1.4.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.bumptech.glide/volley-integration/1.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.bumptech.glide/volley-integration/1.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/volley-integration/1.4.0/4521704634ac47d99e8fa3a69c4281863dcb7f5a/volley-integration-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

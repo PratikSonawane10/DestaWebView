@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695584461667",
+    "firebase_url": "https://desta-193f4.firebaseio.com",
+    "project_id": "desta-193f4",
+    "storage_bucket": "desta-193f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695584461667:android:9f3225f2e1da7bf8",
+        "android_client_info": {
+          "package_name": "com.choicespropertysolutions.desta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695584461667-vhth9i8f9f9r9abq1a19hean2gdf7mvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYv-N8ABJ6m-INSm8TrMZ4Uh2-ipoQNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
